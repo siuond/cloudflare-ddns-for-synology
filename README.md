@@ -17,7 +17,7 @@ Using Cloudflare DDNS for Synology DSM 7.x
 ## IP v4
 
 ```
-wget https://raw.githubusercontent.com/insistent-afk/cloudflare-ddns-for-synology/main/cloudflare-ddns-v4.sh -O /sbin/cloudflare-ddns-v4.sh
+wget https://raw.githubusercontent.com/siuond/cloudflare-ddns-for-synology/refs/heads/siuond-patch-1/cloudflare-ddns-v4.sh -O /sbin/cloudflare-ddns-v4.sh
 ```
 
 2. Give others execute permission
